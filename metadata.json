@@ -1,0 +1,7 @@
+{
+  "name": "CineSaver",
+  "description": "Find the lowest movie ticket prices in your city with real-time search and cinematic gold accents.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
